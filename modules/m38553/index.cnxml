@@ -1,0 +1,338 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Table of Contents</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38553</md:content-id>
+  <md:title>Table of Contents</md:title>
+  <md:abstract/>
+  <md:uuid>3d43cd5f-879e-4142-abbc-333048070048</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-521"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+</para><note id="eip-355">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication as a "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration.</note><list id="eip-623" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+
+<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item>
+
+
+</list><list id="eip-338" list-type="labeled-item"><title><emphasis effect="underline">About the Editors</emphasis></title><item><emphasis>Theodore B. Creighton</emphasis>, is a Professor at Virginia Tech and the Publications Director for <link url="http://www.ncpeapublications.org">NCPEA Publications</link>, the Founding Editor of <link url="http://ncpeapublications.org/about-elr.html">Education Leadership Review,</link> and the Senior Editor of the NCPEA Connexions Project.</item>
+
+
+
+<item><emphasis>Brad E. Bizzell</emphasis>, is a recent graduate of the Virginia Tech Doctoral Program in Educational Leadership and Policy Studies, and is a School Improvement Coordinator for the Virginia Tech Training and Technical Assistance Center. In addition, Dr. Bizzell serves as an Assistant Editor of the NCPEA Connexions Project in charge of technical formatting and design.
+</item>
+
+<item><emphasis>Janet Tareilo</emphasis>, is a Professor at Stephen F. Austin State University and serves as the Assistant Director of NCPEA Publications. Dr. Tareilo also serves as an Assistant Editor of the NCPEA Connexions Project and as a editor and reviewer for several national and international journals in educational leadership.</item>
+
+</list><para id="id1170823122479">
+      <emphasis effect="bold"> In this set of steps and screenshots, readers are provided with directions on creating a Table of Contents for a dissertation or a thesis. This set of steps and screenshots will guide you toward manually inserting the Table of Contents in a document, without the use of the insert “Table of Content” feature that is featured in the References area of Windows. We encourage the use of the manual Table of Contents because they are straightforward and uncomplicated. When creating a Table of Content for a dissertation or thesis, particular guidelines must be followed; ones that may not adhere to the pre-made Table of Contents. At the university where we work, students are discouraged from using the automatic table of contents due to the difficulties it creates when the document is sent to press.</emphasis>
+    </para>
+    <section id="id1170819447059">
+      <title>Step One</title>
+      <para id="id1170829841231">
+        <emphasis effect="bold">First open a word document (Microsoft Word or other) </emphasis>
+      </para>
+      <para id="id1170819843597">
+        <emphasis effect="bold">*Be sure to check the margins that are specified for your dissertation or thesis</emphasis>
+      </para>
+      <list id="id1170799145012" list-type="labeled-item"><item><emphasis>√  First, type in all caps “TABLE OF CONTENTS”</emphasis></item>
+        <item>
+          <emphasis effect="bold">√  Make sure that the title is centered and your page is double spaced</emphasis>
+        </item>
+      </list>
+      <para id="id1170833435771"><link url="2.1.png/image" window="new">
+      <media id="media1" alt="">
+
+        <image mime-type="image/png" src="../../media/2.1.png" id="figure1"/>
+
+      </media>
+      </link></para>
+      <list id="id1170833435137" list-type="labeled-item"><item><emphasis>√ Enter</emphasis></item>
+      <item><emphasis>√ type in “Page”</emphasis></item></list>
+      
+      <para id="id1170836525412"><link url="2.2.png/image" window="new">
+      <media id="media2" alt="">
+
+        <image mime-type="image/png" src="../../media/2.2.png" id="figure2"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-270" list-type="labeled-item"><item><emphasis>* Highlight word</emphasis></item>
+<item><emphasis>* Go to Home</emphasis></item>
+<item><emphasis>* Paragraph</emphasis></item>
+<item><emphasis>* Highlight “Align Text Right”</emphasis></item></list>
+      
+      
+      <para id="id1170846539218"><link url="2.3.png/image" window="new">
+      <media id="media3" alt="">
+
+        <image mime-type="image/png" src="../../media/2.3.png" id="figure3"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-193" list-type="labeled-item"><item><emphasis>** Your page should resemble the following:</emphasis></item>
+</list><para id="id1170829272894"><link url="2.4.png/image" window="new">
+      <media id="media4" alt="">
+
+        <image mime-type="image/png" src="../../media/2.4.png" id="figure4"/>
+
+      </media>
+      </link></para>
+    </section>
+    <section id="id1170829041531">
+      <title>Step Two</title>
+      <para id="id1170817848338"><emphasis>The headings in your Table of Contents should be consistent with the headings in your dissertation or thesis.</emphasis> </para>
+      <para id="id1170799792405"><emphasis>The following is an example of a standard format for a dissertation.</emphasis></para>
+      <list id="id1170840432159" list-type="labeled-item"><item>
+          <emphasis effect="bold">√ Insert the title of each section of your dissertation and its page number </emphasis>
+        </item>
+        <item><emphasis effect="bold">√ Make sure your paragraph is align text left</emphasis> </item>
+      </list>
+      <para id="id1170826183178"><link url="2.5.png/image" window="new">
+      <media id="media5" alt="">
+
+        <image mime-type="image/png" src="../../media/2.5.png" id="figure5"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-852" list-type="labeled-item"><item><emphasis effect="bold">*</emphasis>
+        <emphasis effect="bold">Insert the title or heading </emphasis></item>
+<item><emphasis effect="bold">* Hit the tab key</emphasis></item>
+<item><emphasis effect="bold">*Type the page number</emphasis></item></list>
+      
+      
+      <para id="id1170799077757"><link url="2.6.png/image" window="new">
+      <media id="media6" alt="">
+
+        <image mime-type="image/png" src="../../media/2.6.png" id="figure6"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-207" list-type="labeled-item"><item><emphasis effect="bold">*** Continue to insert your headings and page numbers until your page resembles the following:</emphasis></item>
+</list><para id="id1170821720588"><link url="2.7.png/image" window="new">
+      <media id="media7" alt="">
+
+        <image mime-type="image/png" src="../../media/2.7.png" id="figure7"/>
+
+      </media>
+      </link></para>
+      <list id="id1170827630823" list-type="labeled-item"><item><emphasis>√ Highlight headings</emphasis></item>
+        <item><emphasis>√ Go to Page Layout</emphasis></item>
+        <item><emphasis>√ Paragraph </emphasis></item>
+        <item><emphasis>√ Paragraph dialog/icon box</emphasis></item>
+      </list>
+      <para id="id1170799049921"><link url="2.8.png/image" window="new">
+      <media id="media8" alt="">
+
+        <image mime-type="image/png" src="../../media/2.8.png" id="figure8"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-927" list-type="labeled-item"><item><emphasis>** A Paragraph box will appear</emphasis></item>
+<item><emphasis>* Click "Tabs"</emphasis></item>
+</list>
+      <para id="id1170799613053"><link url="2.9.png/image" window="new">
+      <media id="media9" alt="">
+
+        <image mime-type="image/png" src="../../media/2.9.png" id="figure9"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-303" list-type="labeled-item"><item><emphasis>* In Tab stop position: enter 6</emphasis></item>
+<item><emphasis>* In Alignment: click on Right</emphasis></item>
+<item><emphasis>* In Leader: 2</emphasis></item>
+<item><emphasis>* Then enter: Set</emphasis></item>
+<item><emphasis>* Then OK</emphasis></item></list>
+      
+      
+      
+      <para id="id1170799787038"><link url="2.10.png/image" window="new">
+      <media id="media10" alt="">
+
+        <image mime-type="image/png" src="../../media/2.10.png" id="figure10"/>
+
+      </media>
+      </link></para>
+      <para id="id1170837616816">
+        <emphasis effect="bold">*</emphasis>
+        <emphasis effect="bold">Your Table of Contents should resemble the following:</emphasis>
+      </para>
+      <para id="id1170838703051"><link url="2.11.png/image" window="new">
+      <media id="media11" alt="">
+
+        <image mime-type="image/png" src="../../media/2.11.png" id="figure11"/>
+
+      </media>
+      </link>
+      </para>
+    </section>
+    <section id="id1170824465589">
+      <title>Step Three</title>
+      <para id="id4027385">
+        <emphasis effect="bold">Creating Chapter Titles and page numbers</emphasis>
+        <emphasis effect="bold"/>
+      </para>
+      <list id="id1170841802783" list-type="labeled-item"><item><emphasis>√ Hit Tab key</emphasis></item>
+        <item><emphasis>√ Type a Roman Numeral for the chapter</emphasis></item>
+        <item><emphasis>√ Hit Tab key again</emphasis></item>
+        <item><emphasis>√ Type in the Title of your Chapter</emphasis></item>
+        <item><emphasis>√ Hit the Tab key again</emphasis></item>
+        <item><emphasis>√ Type the page number</emphasis> </item>
+      </list>
+      <para id="id1170824894405">
+        <emphasis effect="bold">Your Table of Contents should resemble the following:</emphasis>
+      </para>
+      <para id="id1170808771112"><link url="2.12.png/image" window="new">
+      <media id="media12" alt="">
+
+        <image mime-type="image/png" src="../../media/2.12.png" id="figure12"/>
+
+      </media>
+      </link></para>
+      
+      <para id="id1170816543308"><emphasis>** Continue inserting Chapter Titles and Page numbers</emphasis> </para>
+      <list id="id1170830342702" list-type="labeled-item"><item><emphasis>√ Highlight the chapter titles and page numbers</emphasis></item>
+        <item><emphasis>√ Go to Page Layout</emphasis></item>
+        <item><emphasis>√ Paragraph</emphasis> </item>
+        <item><emphasis>√ Paragraph dialog/icon box</emphasis></item>
+      </list>
+      <para id="id1170829190154"><link url="2.13.png/image" window="new">
+      <media id="media13" alt="">
+
+        <image mime-type="image/png" src="../../media/2.13.png" id="figure13"/>
+
+      </media>
+      </link></para>
+      <para id="id1170814059543"><emphasis>****** You must put in 3 different tab stop positions, alignments, leaders and set before entering OK *********</emphasis></para>
+      
+      <list id="eip-625" list-type="labeled-item"><title>*First*</title><item><emphasis>* In Tab stop position: enter 0.25</emphasis></item>
+<item><emphasis>* In Alignment: Click on Left</emphasis></item>
+<item><emphasis>* In Leader:1None</emphasis></item>
+<item><emphasis>* Then enter: Set</emphasis></item>
+</list>
+      
+      
+      
+      <para id="id1170838767740"><link url="2.14.png/image" window="new">
+      <media id="media14" alt="">
+
+        <image mime-type="image/png" src="../../media/2.14.png" id="figure14"/>
+
+      </media>
+      </link></para>
+      <list id="eip-635" list-type="labeled-item"><title>* Second *</title><item><emphasis>* In Tab stop position: enter 0.5</emphasis></item>
+<item><emphasis>* In Alignment: Click on Left</emphasis></item>
+<item><emphasis>* In Leader: 1None</emphasis></item>
+<item><emphasis>* The enter: Set</emphasis></item></list>
+      
+      
+      
+      
+      <para id="id1170798867327"><link url="2.15.png/image" window="new">
+      <media id="media15" alt="">
+
+        <image mime-type="image/png" src="../../media/2.15.png" id="figure15"/>
+
+      </media>
+      </link></para>
+      <list id="eip-851" list-type="labeled-item"><title>* Third *</title><item><emphasis>* In Tab stop position: enter 6</emphasis></item>
+<item><emphasis>* In Alignment: Click on Right</emphasis></item>
+<item><emphasis>* In Leader: 2</emphasis></item>
+<item><emphasis>* The enter: Set</emphasis></item></list>
+      
+      
+      
+      
+      <para id="id1170836460858"><link url="2.16.png/image" window="new">
+      <media id="media16" alt="">
+
+        <image mime-type="image/png" src="../../media/2.16.png" id="figure16"/>
+
+      </media>
+      </link></para>
+      
+      <para id="eip-668"><emphasis>* Then OK</emphasis></para><para id="id1170836547588"><emphasis>*** Your Table of Contents should resemble the following:</emphasis></para>
+      <para id="id1170823178522"><link url="2.17.png/image" window="new">
+      <media id="media17" alt="">
+
+        <image mime-type="image/png" src="../../media/2.17.png" id="figure17"/>
+
+      </media>
+      </link></para>
+    </section>
+    <section id="id1170829265752">
+      <title>Step Four</title>
+      <para id="id1170806826635">
+        <emphasis effect="bold">Creating Subheadings and page numbers</emphasis>
+        <emphasis effect="bold"/>
+      </para>
+      <para id="id1170800112650"><emphasis>The subheadings are similarly created as the Chapter headings, with the exception of one less Tab stop.</emphasis></para>
+      <list id="id1170824695089" list-type="labeled-item"><item><emphasis>√ Hit Tab key</emphasis></item>
+        <item><emphasis>√ Type a Subheading for the chapter</emphasis></item>
+        <item><emphasis>√ Hit Tab key again</emphasis></item>
+        <item><emphasis>√ Type the page number</emphasis> </item>
+      </list>
+      <para id="id1170821731277"><emphasis>Your Table of Contents should resemble the following:</emphasis></para>
+      <para id="id5754901"><link url="2.18.png/image" window="new">
+      <media id="media18" alt="">
+
+        <image mime-type="image/png" src="../../media/2.18.png" id="figure18"/>
+
+      </media>
+      </link></para>
+      <list id="id1170817167870" list-type="labeled-item"><item><emphasis>√ Highlight the subheadings and page numbers</emphasis></item>
+        <item><emphasis>√ Go to Page Layout</emphasis></item>
+        <item><emphasis>√ Paragraph</emphasis> </item>
+        <item><emphasis>√ Paragraph dialog/icon box</emphasis></item>
+
+</list>
+      
+      
+      <list id="eip-451" list-type="labeled-item"><title>* First *</title><item><emphasis effect="bold">* In Tab stop position: enter 0.5</emphasis></item>
+<item><emphasis>* In Alignment: Click on Left</emphasis></item>
+<item><emphasis>* In Leader: 1 None</emphasis></item>
+<item><emphasis>* Then enter: Set</emphasis></item></list>
+      
+      
+      <para id="id1170830078315"><link url="2.19.png/image" window="new">
+      <media id="media19" alt="">
+
+        <image mime-type="image/png" src="../../media/2.19.png" id="figure19"/>
+
+      </media>
+      </link></para>
+      <list id="eip-324" list-type="labeled-item"><title>* Second * </title><item><emphasis effect="bold">* In Tab stop position: enter 6</emphasis></item>
+<item><emphasis>* In Alignment: Click on Right</emphasis></item>
+<item><emphasis>* In Leader: 2</emphasis></item>
+<item><emphasis>* Then enter: Set</emphasis></item></list>
+      
+      
+      
+      
+      <para id="id1170799019163"><link url="2.20.png/image" window="new">
+      <media id="media20" alt="">
+
+        <image mime-type="image/png" src="../../media/2.20.png" id="figure20"/>
+
+      </media>
+      </link></para>
+      <para id="id1170836499925"><emphasis>* OK </emphasis></para>
+      <para id="id1170835319851"><emphasis>**** Your Table of Contents should resemble the following:</emphasis></para>
+      <para id="id1170825898700"><link url="2.21.png/image" window="new">
+      <media id="media21" alt="">
+
+        <image mime-type="image/png" src="../../media/2.21.png" id="figure21"/>
+
+      </media>
+      </link></para>
+      <para id="id1170834265729"><emphasis>* Repeat for each subheading and page. </emphasis></para>
+      <para id="id1170800148013"><emphasis>** Use the same technique for your List of Tables and List of Figures. </emphasis></para>
+    </section>
+  </content>
+</document>

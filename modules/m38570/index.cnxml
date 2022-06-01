@@ -1,0 +1,244 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>List of Figures</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38570</md:content-id>
+  <md:title>List of Figures</md:title>
+  <md:abstract/>
+  <md:uuid>483f89d7-4321-46a2-b709-31069d6a7512</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-112"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+</para><note id="eip-59">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication as a "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration.</note><list id="eip-754" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+
+<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item></list><list id="eip-339" list-type="labeled-item"><title><emphasis effect="underline">About the Editors</emphasis></title><item><emphasis>Theodore B. Creighton</emphasis>, is a Professor at Virginia Tech and the Publications Director for <link url="http://www.ncpeapublications.org">NCPEA Publications</link>, the Founding Editor of <link url="http://ncpeapublications.org/about-elr.html">Education Leadership Review,</link> and the Senior Editor of the NCPEA Connexions Project.</item>
+
+
+
+<item><emphasis>Brad E. Bizzell</emphasis>, is a recent graduate of the Virginia Tech Doctoral Program in Educational Leadership and Policy Studies, and is a School Improvement Coordinator for the Virginia Tech Training and Technical Assistance Center. In addition, Dr. Bizzell serves as an Assistant Editor of the NCPEA Connexions Project in charge of technical formatting and design.
+</item>
+
+<item><emphasis>Janet Tareilo</emphasis>, is a Professor at Stephen F. Austin State University and serves as the Assistant Director of NCPEA Publications. Dr. Tareilo also serves as an Assistant Editor of the NCPEA Connexions Project and as a editor and reviewer for several national and international journals in educational leadership.</item></list><para id="id1170446110481">
+      <emphasis effect="bold"> In this set of steps and screenshots, readers are provided with directions on creating a List of Figures for a dissertation or for a thesis. This set of steps and screenshots will guide you toward manually inserting the List of Figures in a document, without the use of the insert “Table of Content” feature that is present in the References area of Windows. We encourage the use of the manual List of Figures because they are straightforward and uncomplicated to use. When creating a List of Figures for a dissertation or thesis, specific guidelines may be required by a university, guidelines that may not adhere to Word’s pre-made List of Figures. At the university where we work, students are discouraged from using the automatic list of figures due to the difficulties it creates when the document is sent to press.</emphasis>
+    </para>
+    <section id="id1170446581464">
+      <title>Step One</title>
+      <para id="id1170445405470">
+        <emphasis effect="bold">First open a word document (Microsoft Word or other) </emphasis>
+      </para>
+      <para id="id1170447636275"><emphasis effect="bold">* Be sure to check the margins that are specified for your dissertation or thesis</emphasis>
+      </para>
+      <list id="id1170446945421" list-type="labeled-item"><item>
+          <emphasis effect="bold">√  First, type in all caps “LIST OF FIGURES”</emphasis></item>
+       
+ <item>
+          <emphasis effect="bold">√  Make sure that the title is centered and your page is double spaced</emphasis></item>
+       
+      </list>
+      <para id="id1170446312947"><link url="3.1.png/image" window="new">
+      <media id="media1" alt="">
+
+        <image mime-type="image/png" src="../../media/3.1.png" id="figure1"/>
+
+      </media>
+      </link></para>
+      <list id="id1170450778871" list-type="labeled-item"><item> <emphasis effect="bold">√  Enter</emphasis></item>
+        <item>
+          <emphasis effect="bold">√  Type in "FIGURE" in all caps</emphasis>
+        </item>
+      </list>
+      <para id="id1170451780424"><link url="3.2.png/image" window="new">
+      <media id="media2" alt="">
+
+        <image mime-type="image/png" src="../../media/3.2.png" id="figure2"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-358" list-type="labeled-item"><item><emphasis>* Hit the tab key</emphasis></item>
+<item><emphasis>* Type the word “PAGE” in all caps</emphasis></item>
+<item><emphasis>* Highlight both words</emphasis></item></list>
+      
+      <para id="id1170446096658"><link url="3.3.png/image" window="new">
+      <media id="media3" alt="">
+
+        <image mime-type="image/png" src="../../media/3.3.png" id="figure3"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-956" list-type="labeled-item"><item><emphasis>* Go to Home</emphasis></item>
+<item><emphasis>* Paragraph</emphasis></item>
+<item><emphasis>* Click on Paragraph dialogue box</emphasis></item></list>
+      
+      <para id="id7972981"><link url="3.4.png/image" window="new">
+      <media id="media4" alt="">
+
+        <image mime-type="image/png" src="../../media/3.4.png" id="figure4"/>
+
+      </media>
+      </link>
+      </para>
+      
+      <list id="eip-941" list-type="labeled-item"><item><emphasis>* Click on Tabs…</emphasis></item>
+</list><para id="id1170446884797"><link url="3.5.png/image" window="new">
+      <media id="media5" alt="">
+
+        <image mime-type="image/png" src="../../media/3.5.png" id="figure5"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-234" list-type="labeled-item"><item><emphasis>* In Tab stop position: enter 6</emphasis></item>
+<item><emphasis>* In Alignment: click on Left</emphasis></item>
+<item><emphasis>* In Leader: 1None</emphasis></item>
+<item><emphasis>* Then enter: Set</emphasis></item>
+<item><emphasis>* Then OK</emphasis></item></list>
+      
+      
+      
+      <para id="id6976271"><link url="3.6.png/image" window="new">
+      <media id="media6" alt="">
+
+        <image mime-type="image/png" src="../../media/3.6.png" id="figure6"/>
+
+      </media>
+      </link>
+      </para>
+      <para id="id1170447685176"><emphasis effect="bold">* Your List of Figures should resemble the following:</emphasis>
+      </para>
+      <para id="id1170445140013"><link url="3.7.png/image" window="new">
+      <media id="media7" alt="">
+
+        <image mime-type="image/png" src="../../media/3.7.png" id="figure7"/>
+
+      </media>
+      </link></para>
+    </section>
+    <section id="id1170441843241">
+      <title>Step Two</title>
+      <para id="id1170451754743">
+        <emphasis effect="bold">The headings in your List of Figures should be consistent with the headings in your dissertation or thesis. </emphasis>
+      </para>
+      <para id="id2506491"><emphasis>The following is an example of a standard format for a dissertation.</emphasis></para>
+      <list id="id1170447287987" list-type="labeled-item"><item> <emphasis effect="bold">√  Insert the title of each section of your dissertation and its page number</emphasis></item>
+        <item>
+          <emphasis effect="bold">√  Make sure your paragraph is align text left</emphasis>
+        </item></list>
+      <para id="eip-130"><link url="3.8.png/image" window="new">
+      <media id="media8" alt="">
+
+        <image mime-type="image/png" src="../../media/3.8.png" id="figure8"/>
+
+      </media>
+      </link></para><list id="eip-917" list-type="labeled-item"><item><emphasis effect="bold">* Insert the Figure number</emphasis></item>
+<item><emphasis effect="bold">* Hit the Tab key</emphasis></item>
+<item><emphasis effect="bold">* Insert the title or heading of the figure</emphasis></item>
+<item><emphasis effect="bold">* Hit the Tab key</emphasis></item>
+<item><emphasis effect="bold">* Type the page number</emphasis></item></list>
+      
+      
+      
+      
+      
+      <para id="id1170450316847"><emphasis>*** Continue to insert your headings and page numbers until your page resembles the following:</emphasis></para>
+      <para id="id1170446268290"><link url="3.9.png/image" window="new">
+      <media id="media9" alt="">
+
+        <image mime-type="image/png" src="../../media/3.9.png" id="figure9"/>
+
+      </media>
+      </link>
+      </para>
+      <list id="eip-964" list-type="labeled-item"><item> <emphasis effect="bold">√  Highlight the figure number, figure titles, and page numbers</emphasis></item>
+</list>
+      
+      <list id="eip-711" list-type="labeled-item"><item><emphasis>* Go to Home</emphasis></item>
+<item><emphasis>* Paragraph</emphasis></item>
+<item><emphasis>* Click on Paragraph dialogue box</emphasis></item></list>
+      
+      <para id="id1170450801196"><link url="3.10.png/image" window="new">
+      <media id="media10" alt="">
+
+        <image mime-type="image/png" src="../../media/3.10.png" id="figure10"/>
+
+      </media>
+      </link></para>
+      
+      <list id="eip-187" list-type="labeled-item"><item><emphasis>** A Paragraph box will appear</emphasis>
+</item>
+<item><emphasis>* Click "Tabs..."</emphasis></item>
+</list>
+      <para id="id1170446437587"><link url="3.11.png/image" window="new">
+      <media id="media11" alt="">
+
+        <image mime-type="image/png" src="../../media/3.11.png" id="figure11"/>
+
+      </media>
+      </link>
+      </para>
+      <para id="id1170446317419"><emphasis>****** You must put in 3 different tab stop positions, alignments, leaders and set before entering</emphasis> </para>
+      
+      <list id="eip-484" list-type="labeled-item"><title>*First*</title><item><emphasis>* In Tab stop position: enter 0.25</emphasis></item>
+<item><emphasis>* In Alignment: Click on Left</emphasis></item>
+<item><emphasis>* In Leader: 1None</emphasis></item>
+<item><emphasis>* Then enter: Set</emphasis></item></list>
+      
+      
+      
+      <para id="id1170447359548"><link url="3.12.png/image" window="new">
+      <media id="media12" alt="">
+
+        <image mime-type="image/png" src="../../media/3.12.png" id="figure12"/>
+
+      </media>
+      </link>
+      </para>
+      <list id="eip-350" list-type="labeled-item"><title>*Second*</title><item><emphasis>* In Tab stop position: enter 0.5</emphasis></item>
+<item><emphasis>* In Alignment: Click on Left</emphasis></item>
+<item><emphasis>* In Leader: 1None</emphasis></item>
+<item><emphasis>* Then enter: Set</emphasis></item></list>
+      
+      
+      
+      
+      <para id="id9092060"><link url="3.13.png/image" window="new">
+      <media id="media13" alt="">
+
+        <image mime-type="image/png" src="../../media/3.13.png" id="figure13"/>
+
+      </media>
+      </link>
+      </para>
+      <list id="eip-14" list-type="labeled-item"><title>*Third*</title><item><emphasis>* In Tab stop position: enter 6</emphasis></item>
+<item><emphasis>* In Alignment: Click on Right</emphasis></item>
+<item><emphasis>* In Leader: 2....</emphasis></item>
+<item><emphasis>* Then enter: Set</emphasis></item></list>
+      
+      
+      
+      
+      <para id="id1170449099570"><link url="3.14.png/image" window="new">
+      <media id="media14" alt="">
+
+        <image mime-type="image/png" src="../../media/3.14.png" id="figure14"/>
+
+      </media>
+      </link>
+      </para>
+      <para id="id1170446086078"><emphasis>* Then OK</emphasis></para>
+      <para id="id1170452242189"><emphasis effect="bold">*** Your List of Figures should resemble the following:</emphasis>
+      </para>
+      <para id="id1170442254066"><link url="3.15.png/image" window="new">
+      <media id="media15" alt="">
+
+        <image mime-type="image/png" src="../../media/3.15.png" id="figure15"/>
+
+      </media>
+      </link></para>
+      <para id="id1170447707188"><emphasis effect="bold">* Repeat for each List of Figures and page number</emphasis>
+      </para>
+    </section>
+  </content>
+</document>

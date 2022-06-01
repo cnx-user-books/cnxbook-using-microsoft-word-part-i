@@ -1,0 +1,226 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>List of Tables</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38577</md:content-id>
+  <md:title>List of Tables</md:title>
+  <md:abstract/>
+  <md:uuid>748b5639-de24-4760-b898-72e78f9eda80</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-99"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>  
+
+</para><note id="eip-80">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication as a "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration.</note><list id="eip-142" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+	<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item>
+
+
+
+</list><list id="eip-909" list-type="labeled-item"><title><emphasis effect="underline">About the Editors</emphasis></title><item><emphasis>Theodore B. Creighton</emphasis>, is a Professor at Virginia Tech and the Publications Director for <link url="http://www.ncpeapublications.org">NCPEA Publications</link>, the Founding Editor of <link url="http://ncpeapublications.org/about-elr.html">Education Leadership Review,</link> and the Senior Editor of the NCPEA Connexions Project.</item>
+	<item><emphasis>Brad E. Bizzell</emphasis>, is a recent graduate of the Virginia Tech Doctoral Program in Educational Leadership and Policy Studies, and is a School Improvement Coordinator for the Virginia Tech Training and Technical Assistance Center. In addition, Dr. Bizzell serves as an Assistant Editor of the NCPEA Connexions Project in charge of technical formatting and design.
+</item>
+	<item><emphasis>Janet Tareilo</emphasis>, is a Professor at Stephen F. Austin State University and serves as the Assistant Director of NCPEA Publications. Dr. Tareilo also serves as an Assistant Editor of the NCPEA Connexions Project and as a editor and reviewer for several national and international journals in educational leadership.</item></list><para id="id1167923759025">
+      <emphasis effect="bold"> In this set of steps and screenshots, readers are provided with directions on creating a List of Tables for a dissertation or a thesis. This set of steps and screenshots will guide you toward manually inserting the List of Tables in a document, without the use of the insert “Table of Contents” feature that is present in the References area of Windows. We encourage you to use the manual List of Tables because they are straightforward and uncomplicated. When creating a List of Tables for a dissertation or for a thesis, particular guidelines must be followed that differ by university and which may differ from Word’s pre-made List of Tables. At the university where we work, students are discouraged from using the automatic table of contents or list of tables due to the difficulties it creates when the document is sent to press.</emphasis>
+    </para>
+    <section id="id1167931253488">
+      <title>Step One</title>
+      <para id="id1167898356210">
+        <emphasis effect="bold">First open a word document (Microsoft Word or other) </emphasis>
+      </para>
+      
+      <list id="eip-628" list-type="labeled-item"><item><emphasis effect="bold">* Be sure to check the margins that are specified for your dissertation or thesis</emphasis>
+</item>
+	<item> <emphasis> √ First, type in all caps "LIST OF TABLES"</emphasis></item>
+	<item><emphasis>√ Make sure that the title is centered and your page is double spaced</emphasis></item></list>
+      <para id="id1167893742623"><link url="8.1.png/image" window="new">
+		<media id="media1" alt="">
+			<image mime-type="image/png" src="../../media/8.1-ff82.png" id="figure1"/>
+		</media>
+	</link></para>
+      <list id="id1167897013552" list-type="labeled-item"><item> <emphasis> √ Enter</emphasis></item>
+	<item><emphasis>√ Type in “TABLE” in all caps</emphasis></item>
+</list>
+      <para id="id1167897110070"><link url="8.2.png/image" window="new">
+		<media id="media2" alt="">
+			<image mime-type="image/png" src="../../media/8.2-1f81.png" id="figure2"/>
+		</media>
+	</link></para>
+      
+      <list id="eip-796" list-type="labeled-item"><item>
+		<emphasis> * Hit the tab key</emphasis></item>
+	<item><emphasis>* Type the work "PAGE" in all caps</emphasis></item>
+	<item><emphasis>* Highlight both words</emphasis>
+	</item></list>
+      
+      <para id="id1167906234955"><link url="8.3.png/image" window="new">
+		<media id="media3" alt="">
+			<image mime-type="image/png" src="../../media/8.3-2ccc.png" id="figure3"/>
+		</media>
+	</link></para>
+      <list id="eip-423" list-type="labeled-item"><item><emphasis effect="bold">* Go to Home</emphasis>
+</item>
+	<item><emphasis effect="bold">* Paragraph</emphasis>
+</item>
+	<item> <emphasis effect="bold">* Click on Paragraph dialog box</emphasis>
+ </item></list>
+      
+      
+      <para id="id1167903672164"><link url="8.4.png/image" window="new">
+		<media id="media4" alt="">
+			<image mime-type="image/png" src="../../media/8.4-9be8.png" id="figure4"/>
+		</media>
+	</link></para>
+      
+      <list id="eip-635" list-type="labeled-item"><item><emphasis>* Click on Tabs…</emphasis></item>
+</list><para id="id1167910105403"><link url="8.5.png/image" window="new">
+		<media id="media5" alt="">
+			<image mime-type="image/png" src="../../media/8.5-9e04.png" id="figure5"/>
+		</media>
+	</link></para>
+      
+      
+      
+      
+      <list id="eip-17" list-type="labeled-item"><item><emphasis>* In Tab stop position: enter 6</emphasis></item>
+
+	<item><emphasis> * In Alignment: click on Left</emphasis> </item>
+
+	<item><emphasis> *In Leader: 1None</emphasis>
+	</item>
+
+	<item><emphasis> * In Alignment: click on Left</emphasis> </item>
+
+	<item><emphasis> * In Alignment: click on Left</emphasis> </item>
+<item> 
+<emphasis> * Click on OK</emphasis></item></list>
+      <para id="id1167916907083"><link url="8.6.png/image" window="new">
+		<media id="media6" alt="">
+			<image mime-type="image/png" src="../../media/8.6-6bea.png" id="figure6"/>
+		</media>
+	</link></para>
+      <para id="id1167918945256"><emphasis>* Your List of Tables should resemble the following:</emphasis></para>
+      <para id="id1167920135732"><link url="8.7.png/image" window="new">
+		<media id="media7" alt="">
+			<image mime-type="image/png" src="../../media/8.7-8eca.png" id="figure7"/>
+		</media>
+	</link></para>
+    </section>
+    <section id="id1167919432348">
+      <title>Step Two</title>
+      <para id="id1167915460385">
+        <emphasis effect="bold">The headings in your List of Tables should be consistent with the headings in your dissertation or thesis. </emphasis>
+      </para>
+      <para id="id1167916730040"><emphasis>The following is an example of a standard format for a dissertation.</emphasis></para>
+      <list id="id1167908876252" list-type="labeled-item"><item>
+		<emphasis effect="bold">√ Insert the title of each section of your dissertation and its page number </emphasis>
+	</item>
+	<item><emphasis>√ Make sure your paragraph is align text left</emphasis> </item>
+</list>
+      <para id="id1167896998240"><link url="8.8.png/image" window="new">
+		<media id="media8" alt="">
+			<image mime-type="image/png" src="../../media/8.8-a681.png" id="figure8"/>
+		</media>
+	</link></para>
+      
+      
+      
+      <list id="eip-438" list-type="labeled-item"><item> <emphasis effect="bold">*</emphasis>
+	<emphasis effect="bold">Insert the table number</emphasis>
+ </item>
+<item><emphasis>* Hit the tab key</emphasis></item>
+	<item><emphasis effect="bold">* Insert the title or heading </emphasis>
+	</item>
+	<item><emphasis effect="bold">* Hit the tab key</emphasis>
+	</item>
+	<item><emphasis effect="bold">* Type the page number</emphasis>
+	</item>
+	</list>
+      
+      
+      <para id="id1167916149620"><emphasis>*** Continue to insert your headings and page numbers until your page resembles the following:</emphasis></para>
+      <para id="id1167927272613"><link url="8.9.png/image" window="new">
+		<media id="media9" alt="">
+			<image mime-type="image/png" src="../../media/8.9-a809.png" id="figure9"/>
+		</media>
+	</link></para>
+      <list id="id1167900451154" list-type="labeled-item"><item><emphasis>√ Highlight the table number, chapter titles, and page numbers</emphasis></item><item><emphasis>* Go to Home</emphasis></item>
+	<item><emphasis> * Paragraph</emphasis></item>
+<item><emphasis>* Click on Paragraph dialog box</emphasis></item>
+</list>
+      
+      
+      
+      <para id="id1167898002010"><link url="8.10.png/image" window="new">
+		<media id="media10" alt="">
+			<image mime-type="image/png" src="../../media/8.10-a1c2.png" id="figure10"/>
+		</media>
+	</link></para>
+      <para id="id1167925424954"><emphasis>** A Paragraph box will appear</emphasis></para>
+      
+      <list id="eip-494" list-type="labeled-item"><item><emphasis>* Click “Tabs…”</emphasis></item>
+	</list><para id="id1167917211849"><link url="8.11.png/image" window="new">
+		<media id="media11" alt="">
+			<image mime-type="image/png" src="../../media/8.11.png" id="figure11"/>
+		</media>
+	</link></para>
+      <para id="id7945790"><emphasis>****** You must put in 3 different tab stop positions, alignments, leaders and set before entering</emphasis> </para>
+      <list id="eip-472" list-type="labeled-item"><title>* First * </title><item> <emphasis> * In Tab stop position: enter 0.25</emphasis></item>
+	<item><emphasis>* In Alignment: click on Left</emphasis></item>
+	<item><emphasis> * In Leader: 1None </emphasis></item>
+	<item><emphasis> * Then enter: Set</emphasis> </item></list>
+      
+      
+      
+      
+      <para id="id1167921331850"><link url="8.12.png/image" window="new">
+		<media id="media12" alt="">
+			<image mime-type="image/png" src="../../media/8.12.png" id="figure12"/>
+		</media>
+	</link></para>
+      <list id="eip-139" list-type="labeled-item"><title>*Second  *</title><item>
+		<emphasis> * In Tab stop position: enter 0.5</emphasis></item>
+	<item><emphasis>* In Alignment: click on Left</emphasis></item>
+	<item><emphasis> * In Leader: 1None </emphasis></item>
+	<item><emphasis> * Then enter: Set</emphasis>
+	</item></list>
+      
+      
+      
+      
+      <para id="id1167898356094"><link url="8.13.png/image" window="new">
+		<media id="media13" alt="">
+			<image mime-type="image/png" src="../../media/8.13.png" id="figure13"/>
+		</media>
+	</link></para>
+      <list id="eip-904" list-type="labeled-item"><title>* Third *</title><item><emphasis effect="bold">* In Tab stop position: enter 6</emphasis>
+	</item>
+	<item><emphasis effect="bold">* In Alignment: click on Right</emphasis>
+	</item>
+	<item>
+		<emphasis effect="bold">* In Leader: 2.......</emphasis>
+	</item>
+<item><emphasis effect="bold">* Then enter: Set</emphasis>
+</item></list>
+      
+      
+      
+      
+      <para id="id1167908876194"><link url="8.14.png/image" window="new">
+		<media id="media14" alt="">
+			<image mime-type="image/png" src="../../media/8.14.png" id="figure14"/>
+		</media>
+	</link></para>
+      
+      <list id="eip-324" list-type="labeled-item"><item><emphasis>* Then OK </emphasis> </item>
+	</list><para id="id1167895649571"><emphasis effect="bold">*** Your List of Tables should resemble the following:</emphasis>
+</para>
+      <para id="id1167916930788"><link url="8.15.png/image" window="new">
+		<media id="media15" alt="">
+			<image mime-type="image/png" src="../../media/8.15.png" id="figure15"/>
+		</media>
+	</link></para>
+      <para id="id1167919146401"><emphasis effect="bold">* Repeat for each individual table and page number</emphasis>
+</para>
+    </section>
+  </content>
+</document>

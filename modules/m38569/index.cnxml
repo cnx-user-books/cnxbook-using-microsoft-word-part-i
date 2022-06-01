@@ -1,0 +1,213 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Footer</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38569</md:content-id>
+  <md:title>Footer</md:title>
+  <md:abstract/>
+  <md:uuid>41e94132-fbfe-4fe7-a5fd-395ffe8e8825</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-849"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+</para><note id="eip-119">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication as a "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration.</note><list id="eip-29" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+
+<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item>
+
+
+
+</list><list id="eip-846" list-type="labeled-item"><title><emphasis effect="underline">About the Editors</emphasis></title><item><emphasis>Theodore B. Creighton</emphasis>, is a Professor at Virginia Tech and the Publications Director for <link url="http://www.ncpeapublications.org">NCPEA Publications</link>, the Founding Editor of <link url="http://ncpeapublications.org/about-elr.html">Education Leadership Review,</link> and the Senior Editor of the NCPEA Connexions Project.</item>
+
+
+
+<item><emphasis>Brad E. Bizzell</emphasis>, is a recent graduate of the Virginia Tech Doctoral Program in Educational Leadership and Policy Studies, and is a School Improvement Coordinator for the Virginia Tech Training and Technical Assistance Center. In addition, Dr. Bizzell serves as an Assistant Editor of the NCPEA Connexions Project in charge of technical formatting and design.
+</item>
+
+<item><emphasis>Janet Tareilo</emphasis>, is a Professor at Stephen F. Austin State University and serves as the Assistant Director of NCPEA Publications. Dr. Tareilo also serves as an Assistant Editor of the NCPEA Connexions Project and as a editor and reviewer for several national and international journals in educational leadership.</item></list><para id="id1170206348002">
+      <emphasis effect="bold"> In this set of steps and screenshots, readers are provided with directions on creating a footer using the 2007 version of Word. In this chapter, you will be guided toward manually inserting a page number in your footer for your thesis or dissertation.</emphasis>
+    </para>
+    <section id="id1170206069348">
+      <title>Step One</title>
+      <para id="id1170214859622">
+        <emphasis effect="bold">First open a Word document (Microsoft Word 2007 version)</emphasis>
+      </para>
+      
+      <para id="id1170222491354"><link url="6.1.png/image" window="new">
+      <media id="media1" alt="">
+
+        <image mime-type="image/png" src="../../media/6.1.png" id="figure1"/>
+
+      </media>
+      </link></para>
+      <para id="id1170206134189">
+        <emphasis effect="bold">Next, create the title for your manuscript and center it. Your title should be no more than 15 words, as per APA 6th edition, and should be centered left to right and about one-third from the top of the page. </emphasis>
+      </para>
+      <para id="id1170206726182"><link url="6.2.png/image" window="new">
+      <media id="media2" alt="">
+
+        <image mime-type="image/png" src="../../media/6.2.png" id="figure2"/>
+
+      </media>
+      </link></para>
+      <para id="id1982168">
+        <emphasis effect="bold">After you have created your Title page and your Approval page, then either use the page break or control/enter to force a third page. The third page will be your Dedication page.</emphasis>
+      </para>
+      <para id="id1170215687167"><link url="6.3.png/image" window="new">
+      <media id="media3" alt="">
+
+        <image mime-type="image/png" src="../../media/6.3.png" id="figure3"/>
+
+      </media>
+      </link>
+      </para>
+      <para id="id1170206314640">
+        <emphasis effect="bold">Now that we have created three pages, we will now create the page footer first for page two, because the first page does not have a page footer.</emphasis>
+      </para>
+      <list id="id1170206302536" list-type="labeled-item"><item><emphasis>√ Double click footer</emphasis></item>
+        </list>
+      <para id="id1170216293808"><link url="6.4.png/image" window="new">
+      <media id="media4" alt="">
+
+        <image mime-type="image/png" src="../../media/6.4.png" id="figure4"/>
+
+      </media>
+      </link></para>
+      <list id="id1170206570446" list-type="labeled-item"><item><emphasis>√ Go to Design</emphasis></item>
+        <item>
+          <emphasis effect="bold">√ Go to Header &amp; Footer</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ Click on Page Number</emphasis>
+        </item></list>
+      <para id="id1170222722829"><link url="6.5.png/image" window="new">
+      <media id="media5" alt="">
+
+        <image mime-type="image/png" src="../../media/6.5.png" id="figure5"/>
+
+      </media>
+      </link></para>
+      <para id="id1170206641365">
+        <emphasis effect="bold">When you click on Page Number, go to Bottom of Page, then Plain Number 2:</emphasis>
+      </para>
+      <para id="id1170206058269"><link url="6.6.png/image" window="new">
+      <media id="media6" alt="">
+
+        <image mime-type="image/png" src="../../media/6.6.png" id="figure6"/>
+
+      </media>
+      </link>
+      </para>
+      <para id="id1170214056119"><emphasis>Your page should resemble the following:</emphasis></para>
+      <para id="id1170206471015"><link url="6.7.png/image" window="new">
+      <media id="media7" alt="">
+
+        <image mime-type="image/png" src="../../media/6.7.png" id="figure7"/>
+
+      </media>
+      </link></para>
+      <para id="id1170202546641"><emphasis>You must now change the page number to a lower case Roman numeral (e.g., iii, iv).</emphasis></para>
+      <list id="id1170205538195" list-type="labeled-item"><item><emphasis>√ Highlight Number</emphasis></item>
+        <item>
+          <emphasis effect="bold">√ Go to Page Number</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ Go to Format Page Number</emphasis>
+        </item></list>
+      <para id="id1170226482074"><link url="6.8.png/image" window="new">
+      <media id="media8" alt="">
+
+        <image mime-type="image/png" src="../../media/6.8.png" id="figure8"/>
+
+      </media>
+      </link></para>
+      <list id="id1170222928285" list-type="labeled-item"><item><emphasis>√ Click on Format Page number</emphasis></item>
+        <item>
+          <emphasis effect="bold">√ Click on Number Format</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ Highlight: i, ii, iii, …</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ Click OK</emphasis>
+        </item></list>
+      <para id="id1170222718269"><link url="6.9.png/image" window="new">
+      <media id="media9" alt="">
+
+        <image mime-type="image/png" src="../../media/6.9.png" id="figure9"/>
+
+      </media>
+      </link></para>
+      <para id="id1170205555286"><emphasis>Your page should resemble the following:</emphasis></para>
+      <para id="id1170206357538"><link url="6.10.png/image" window="new">
+      <media id="media10" alt="">
+
+        <image mime-type="image/png" src="../../media/6.10.png" id="figure10"/>
+
+      </media>
+      </link></para>
+    </section>
+    <section id="id1170225779601">
+      <title>Step Two: Creating a different first page</title>
+      <list id="id1170205989025" list-type="labeled-item"><item><emphasis effect="bold">√ Go to Design</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ Go to Options</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ Click on icon with "Different First Page"</emphasis>
+        </item></list>
+      <para id="id1170206484091"><link url="6.11.png/image" window="new">
+      <media id="media11" alt="">
+
+        <image mime-type="image/png" src="../../media/6.11.png" id="figure11"/>
+
+      </media>
+      </link>
+      </para>
+      <para id="id1170205968514">
+        <emphasis effect="bold">By following these steps, you have now created a page footer that will be at the bottom of your manuscript for pages 3 through the List of Figures (e.g., Dedication page, Abstract, Acknowledgements, Preface, Table of Contents, and List of Tables). Your Title page and Approval sheet should not be numbered. We now have to create the Running head for page one (See chapter for Running head).</emphasis>
+      </para>
+      <para id="id1170222925177"><link url="6.12.png/image" window="new">
+      <media id="media12" alt="">
+
+        <image mime-type="image/png" src="../../media/6.12.png" id="figure12"/>
+
+      </media>
+      </link>
+      </para>
+    </section>
+    <section id="id1170206292721">
+      <title>Step Three: To create a break in your footer to accommodate the body of your thesis (e.g., chapters or sections)</title>
+      <list id="id1170206556766" list-type="labeled-item"><item><emphasis effect="bold">√ Go to Page Layout</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ Go to Page Setup</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ Click on Breaks</emphasis>
+        </item></list>
+      <para id="id1170206521445"><link url="6.13.png/image" window="new">
+      <media id="media13" alt="">
+
+        <image mime-type="image/png" src="../../media/6.13.png" id="figure13"/>
+
+      </media>
+      </link></para>
+      <list id="id1170211817301" list-type="labeled-item"><item><emphasis effect="bold">√ Click on Continuous Break</emphasis>
+        </item></list>
+      <para id="id8005823"><link url="6.14.png/image" window="new">
+      <media id="media14" alt="">
+
+        <image mime-type="image/png" src="../../media/6.14.png" id="figure14"/>
+
+      </media>
+      </link></para>
+      <list id="id1170223309030" list-type="labeled-item"><item><emphasis effect="bold">√ Double click on the Header</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ The Header title should be titled as a different section as the Header and Footer from the previous page</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ Make sure that the “Link to Previous” button is not clicked, otherwise, the sections will still be linked</emphasis>
+        </item></list>
+      <para id="id1170206184952"><link url="6.15.png/image" window="new">
+      <media id="media15" alt="">
+
+        <image mime-type="image/png" src="../../media/6.15.png" id="figure15"/>
+
+      </media>
+      </link></para>
+      <para id="id1170206146970"><emphasis>You can now create the rest of your manuscript. </emphasis></para>
+    </section>
+  </content>
+</document>

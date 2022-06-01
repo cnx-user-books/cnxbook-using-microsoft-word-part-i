@@ -1,0 +1,77 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Running Head and Page Header (97-2003 Word Version)</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38567</md:content-id>
+  <md:title>Running Head and Page Header (97-2003 Word Version)</md:title>
+  <md:abstract/>
+  <md:uuid>cd250d4b-c83a-4f24-8967-75bce0741312</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-924"><media id="id27091672" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+</para><note id="eip-626">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication as a "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration.</note><list id="eip-572" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+
+<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item></list><list id="eip-349" list-type="labeled-item"><title><emphasis effect="underline">About the Editors</emphasis></title><item><emphasis>Theodore B. Creighton</emphasis>, is a Professor at Virginia Tech and the Publications Director for <link url="http://www.ncpeapublications.org">NCPEA Publications</link>, the Founding Editor of <link url="http://ncpeapublications.org/about-elr.html">Education Leadership Review,</link> and the Senior Editor of the NCPEA Connexions Project.</item>
+
+
+
+<item><emphasis>Brad E. Bizzell</emphasis>, is a recent graduate of the Virginia Tech Doctoral Program in Educational Leadership and Policy Studies, and is a School Improvement Coordinator for the Virginia Tech Training and Technical Assistance Center. In addition, Dr. Bizzell serves as an Assistant Editor of the NCPEA Connexions Project in charge of technical formatting and design.
+</item>
+
+<item><emphasis>Janet Tareilo</emphasis>, is a Professor at Stephen F. Austin State University and serves as the Assistant Director of NCPEA Publications. Dr. Tareilo also serves as an Assistant Editor of the NCPEA Connexions Project and as a editor and reviewer for several national and international journals in educational leadership.</item></list><para id="id1172693904908"><emphasis effect="bold"> In this set of steps and screenshots, readers are provided with directions on creating a Running head and a page header for manuscripts using the 97-2003 version of Word. If you are using the 2007 version of Word, you will need to use the other chapter of steps and screenshots we have created. In this chapter, you will be guided toward manually inserting a Running head on your title page and then a page header for the remaining pages of your manuscript.</emphasis></para>
+    <section id="id1172712969516">
+      <title>Step One</title>
+      <para id="id1172687260247"><emphasis effect="bold">First open a word document (Microsoft Word 97-2003 version)</emphasis></para>
+      <para id="id1172709548053"><media id="id27091673" alt=""><image src="../../media/4.1.png" mime-type="image/gif"/></media></para>
+      <para id="id1172712940782"><emphasis effect="bold">Next, create the title for your manuscript and center it. Your title should be no more than 15 words, as per APA 6th edition, and should be centered left to right and about one-third from the top of the page. Your name and institutional affiliation will also be typed onto the title page, but not for this blinded version, the one that would be submitted to a journal for review.</emphasis></para>
+      <para id="id1172712929029"><media id="id27091674" alt=""><image src="../../media/4.2.png" mime-type="image/gif"/></media></para>
+      <para id="id1172693691800">
+        <emphasis effect="bold">After you have created your title page, then either use the page break or control/enter to force a second page. The second page will be your Abstract page.</emphasis>
+      </para>
+      <para id="id1172715734826"><media id="id27091675" alt=""><image src="../../media/4.3.png" mime-type="image/gif"/></media></para>
+      <para id="id2355708"><emphasis effect="bold">Now that we have created two pages, we will now create the page header first for page two and then we will generate the Running head on page one.</emphasis></para>
+      
+      <list id="eip-220" list-type="labeled-item"><item><emphasis effect="bold">√ </emphasis>
+		<emphasis effect="bold">Click on View</emphasis>
+	</item>
+	<item><emphasis effect="bold">√ </emphasis>
+		<emphasis effect="bold">Click on Header and Footer</emphasis>
+	</item>
+	</list>
+      <para id="id1172712852583"><media id="id27091676" alt=""><image src="../../media/4.4.png" mime-type="image/gif"/></media></para>
+      <para id="id1172709416424"><emphasis effect="bold">When you click on Header and Footer, then the following screen will appear:</emphasis></para>
+      <para id="id1172709193252"><emphasis effect="bold">You now have a place in which to insert your Running head/page header and a tool bar.</emphasis></para>
+      <para id="id1172712441553"><media id="id27091677" alt=""><image src="../../media/4.5.png" mime-type="image/gif"/></media></para>
+      <para id="id1172709710775"><emphasis effect="bold">We will create the page header for page two and all of the following pages first. Notice that we are on the Abstract page which is page number two. As per APA 6th edition, we will type in a maximum of 50 characters of the title. Notice that the page header is entirely written in capital letters. After typing in SCHOOL SIZE AND STUDENT ACHIEVEMENT, which we took from the title present on page one of this manuscript, we then tab over and hit the page number icon. After clicking on it, your screen will look like the one below.</emphasis></para>
+      <para id="id1172712574965"><media id="id27091678" alt=""><image src="../../media/4.6.png" mime-type="image/gif"/></media></para>
+      <para id="id1172712060125"><emphasis effect="bold">Next we will click on the Page Setup icon.</emphasis></para>
+      <para id="id1172715582263"><media id="id27091679" alt=""><image src="../../media/4.7.png" mime-type="image/gif"/></media></para>
+      <para id="id1172708959495"><emphasis effect="bold">After clicking on the Page Setup icon, the following screen will appear.</emphasis></para>
+      <para id="id1172684835024"><media id="id27091680" alt=""><image src="../../media/4.8.png" mime-type="image/gif"/></media></para>
+      <para id="id1172716884628"><emphasis effect="bold">Click on Layout and this screen will appear. We will now click on Headers and Footers Different First Page. </emphasis></para>
+      <para id="id1172712045188"><media id="id27091681" alt=""><image src="../../media/4.9.png" mime-type="image/gif"/></media></para>
+      <para id="id1172694197160"><emphasis effect="bold">After the Different first page box is clicked on, then click on OK.</emphasis></para>
+      <para id="id1172684884668"><media id="id27091682" alt=""><image src="../../media/4.10.png" mime-type="image/gif"/></media></para>
+      <para id="id1172712062412"><emphasis effect="bold">Now click on close.</emphasis></para>
+      <para id="id1172712928993"><media id="id27091683" alt=""><image src="../../media/4.11.png" mime-type="image/gif"/></media></para>
+      <para id="id1172712202217"><emphasis effect="bold">By doing this, you have created a page header that will be at the top of your manuscript for pages 2 through the end of the manuscript. We now have to create the Running head for page one.</emphasis></para>
+      <para id="id1172686532803"><emphasis effect="bold">To do this, move your cursor to page one, to where you have typed the title of your manuscript. You should notice that on page one, you do not have the page header that you typed previously. It is only present for pages 2 through the end of your manuscript.</emphasis></para>
+      <para id="id1172714823520"><media id="id27091684" alt=""><image src="../../media/4.12.png" mime-type="image/gif"/></media></para>
+      <para id="id1172719631823"><emphasis effect="bold">Now click on View and then Header and Footer.</emphasis></para>
+      <para id="id2184523"><media id="id27091685" alt=""><image src="../../media/4.13.png" mime-type="image/gif"/></media></para>
+      <para id="id1172726148918"><emphasis effect="bold">Then the following screen will appear that will allow you to type in the information for your Running head for page one. Below the box where you will type in your Running head is a toolbox, the same one that was present when you typed in your page header information for page two.</emphasis></para>
+      <para id="id1172716605445"><media id="id27091686" alt=""><image src="../../media/4.14.png" mime-type="image/gif"/></media></para>
+      <para id="id1172712830857"><emphasis effect="bold">For the first page, we type in Running head: and then the same words we typed as our page header on page two. After typing in those letters in all caps, we hit the tab key and the insert page number icon.</emphasis></para>
+      <para id="id1172709119527"><media id="id27091687" alt=""><image src="../../media/4.15.png" mime-type="image/gif"/></media></para>
+      <para id="id1172718339700"><emphasis effect="bold">Once your screen looks like the one below, where you have your Running head: followed by the same exact words you typed as your page header and then the page number to the far right, then click on Close.</emphasis></para>
+      <para id="id1172696967701"><media id="id27091688" alt=""><image src="../../media/4.16.png" mime-type="image/gif"/></media></para>
+      <para id="id1172715134927"><emphasis effect="bold">Now your first page, your title page looks like:</emphasis></para>
+      <para id="id1172715802977"><media id="id27091689" alt=""><image src="../../media/4.17.png" mime-type="image/gif"/></media></para>
+      <para id="id1172712545628"><emphasis effect="bold">Moving your cursor to the second page shows that it reads as:</emphasis></para>
+      <para id="id1172722815636"><media id="id27091690" alt=""><image src="../../media/4.18.png" mime-type="image/gif"/></media></para>
+      <para id="id1172712861087"><emphasis effect="bold">You can now create the rest of your manuscript. The page header on page two will reappear on the top of all of your remaining pages in your manuscript.</emphasis></para>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,302 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Running Head and Page Header (2007 Word Version)</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38568</md:content-id>
+  <md:title>Running Head and Page Header (2007 Word Version)</md:title>
+  <md:abstract/>
+  <md:uuid>9277414c-63df-4f6b-9a69-41d0373cc46c</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-806"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+</para><note id="eip-240">This chapter is published by <link url="http://www.ncpeapublications.org/books.html">NCPEA Press</link> and is presented as an NCPEA/Connexions publication as a "print on demand book." Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration.</note><list id="eip-473" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website (<link url="www.writingandstatisticalhelp">Writing and Statistical Help</link>) to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+
+<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  Dr. LeBoeuf recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical Help website.
+</item></list><list id="eip-692" list-type="labeled-item"><title><emphasis effect="underline">About the Editors</emphasis></title><item><emphasis>Theodore B. Creighton</emphasis>, is a Professor at Virginia Tech and the Publications Director for <link url="http://www.ncpeapublications.org">NCPEA Publications</link>, the Founding Editor of <link url="http://ncpeapublications.org/about-elr.html">Education Leadership Review,</link> and the Senior Editor of the NCPEA Connexions Project.</item>
+
+
+
+<item><emphasis>Brad E. Bizzell</emphasis>, is a recent graduate of the Virginia Tech Doctoral Program in Educational Leadership and Policy Studies, and is a School Improvement Coordinator for the Virginia Tech Training and Technical Assistance Center. In addition, Dr. Bizzell serves as an Assistant Editor of the NCPEA Connexions Project in charge of technical formatting and design.
+</item>
+
+<item><emphasis>Janet Tareilo</emphasis>, is a Professor at Stephen F. Austin State University and serves as the Assistant Director of NCPEA Publications. Dr. Tareilo also serves as an Assistant Editor of the NCPEA Connexions Project and as a editor and reviewer for several national and international journals in educational leadership.</item></list><para id="id1168225784826">
+      <emphasis effect="bold"> In this set of steps and screenshots, readers are provided with directions on creating a Running head and a page header for manuscripts using the 2007 version of Word. If you are using the 97-2003 version of Word, you will need to use the other chapter of steps and screenshots we have created. In this chapter, you will be guided toward manually inserting a Running head on your title page and then a page header for the remaining pages of your manuscript.</emphasis>
+    </para>
+    <section id="id1168218192440">
+      <title>Step One</title>
+      <para id="id1168223604922">
+        <emphasis effect="bold">First open a word document (Microsoft Word 2007 version)</emphasis>
+      </para>
+      
+      <para id="id1168236525389"><link url="5.1.png/image" window="new">
+      <media id="media1" alt="">
+
+        <image mime-type="image/png" src="../../media/5.1.png" id="figure1"/>
+
+      </media>
+      </link></para>
+      <para id="id1168193214056">
+        <emphasis effect="bold">Next, create the title for your manuscript and center it. Your title should be no more than 15 words, as per APA 6th edition, and should be centered left to right and about one-third from the top of the page. Your name and institutional affiliation will also be typed onto the title page, but not for this blinded version, the one that would be submitted to a journal for review.</emphasis>
+      </para>
+      <para id="id1168217976677"><link url="5.2.png/image" window="new">
+      <media id="media2" alt="">
+
+        <image mime-type="image/png" src="../../media/5.2.png" id="figure2"/>
+
+      </media>
+      </link></para>
+      <para id="id1168224889571"><emphasis>After you have created your title page, then either use the page break or control/enter to force a second page. The second page will be your Abstract page.</emphasis></para>
+      <para id="id1168195825896"><link url="5.3.png/image" window="new">
+      <media id="media3" alt="">
+
+        <image mime-type="image/png" src="../../media/5.3.png" id="figure3"/>
+
+      </media>
+      </link></para>
+      
+      <para id="id1168226379933"><emphasis>Now that we have created two pages, we will now create the page header first for page two and then we will generate the Running head on page one.</emphasis></para>
+      <list id="id7323068" list-type="labeled-item"><item><emphasis>√ Double click Header</emphasis></item>
+      </list>
+      <para id="id1168210972956"><link url="5.4.png/image" window="new">
+      <media id="media4" alt="">
+
+        <image mime-type="image/png" src="../../media/5.4.png" id="figure4"/>
+
+      </media>
+      </link></para>
+      <list id="id1168230288804" list-type="labeled-item"><item><emphasis>√ Go to Insert</emphasis></item>
+        <item>
+          <emphasis effect="bold">√ Click on Quick Parts</emphasis>
+        </item>
+      
+
+</list>
+      <para id="id1168193967443"><link url="5.5.png/image" window="new">
+      <media id="media5" alt="">
+
+        <image mime-type="image/png" src="../../media/5.5.png" id="figure5"/>
+
+      </media>
+      </link></para>
+      <para id="id1168218136519">
+        <emphasis effect="bold">When you click on Quick Parts, go to Document Property, then Title:</emphasis>
+      </para>
+      <para id="id1168197396775"><link url="5.6.png/image" window="new">
+      <media id="media6" alt="">
+
+        <image mime-type="image/png" src="../../media/5.6.png" id="figure6"/>
+
+      </media>
+      </link></para>
+      <para id="id1168226388435"><emphasis>You now have a place in which to insert your Running head/page header and a tool bar.</emphasis></para>
+      <para id="id1168230311262"><link url="5.7.png/image" window="new">
+      <media id="media7" alt="">
+
+        <image mime-type="image/png" src="../../media/5.7.png" id="figure7"/>
+
+      </media>
+      </link></para>
+      <para id="id1168191678933">
+        <emphasis effect="bold">We will create the page header for page two and all of the following pages first. Notice that we are on the Abstract page which is page number two. As per APA 6th edition, we will type in a maximum of 50 characters of the title. Notice that the page header is entirely written in capital letters. Your page should resemble the following:</emphasis>
+      </para>
+      <para id="id1168226381548"><link url="5.8.png/image" window="new">
+      <media id="media8" alt="">
+
+        <image mime-type="image/png" src="../../media/5.8.png" id="figure8"/>
+
+      </media>
+      </link></para>
+      <para id="id1168211618218"><emphasis>You must click out of title, but remain in the Header. </emphasis></para>
+    </section>
+    <section id="id1168204637513">
+      <title>Step Two: Inserting the page number</title>
+      <list id="eip-34" list-type="labeled-item"><item><emphasis>√ Go to Design</emphasis></item>
+        <item>
+          <emphasis effect="bold">√ Go to Position</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ Click on Insert Alignment Tab</emphasis>
+        </item></list>
+      
+      <para id="id1168188424470"><link url="5.9.png/image" window="new">
+      <media id="media9" alt="">
+
+        <image mime-type="image/png" src="../../media/5.9.png" id="figure9"/>
+
+      </media>
+      </link></para>
+      <list id="id1168226412309" list-type="labeled-item"><item><emphasis>√ Click on Right Alignment</emphasis></item>
+        <item>
+          <emphasis effect="bold">√ OK</emphasis>
+        </item>
+</list>
+      <para id="id1168227301906"><link url="5.10.png/image" window="new">
+      <media id="media10" alt="">
+
+        <image mime-type="image/png" src="../../media/5.10.png" id="figure10"/>
+
+      </media>
+      </link></para>
+      <list id="id1168226260675" list-type="labeled-item"><item><emphasis>√ Go to Header &amp; Footer</emphasis></item>
+        <item>
+          <emphasis effect="bold">√ Click on Page Number</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ Current Position</emphasis>
+        </item>
+  <item><emphasis>√ Plain Number</emphasis></item></list>
+      <para id="id1168227724594"><link url="5.11.png/image" window="new">
+      <media id="media11" alt="">
+
+        <image mime-type="image/png" src="../../media/5.11.png" id="figure11"/>
+
+      </media>
+      </link></para>
+      <para id="id1168192361429"><emphasis>**** Your page should resemble the following:</emphasis></para>
+      <para id="id1168219984324"><link url="5.12.png/image" window="new">
+      <media id="media12" alt="">
+
+        <image mime-type="image/png" src="../../media/5.12.png" id="figure12"/>
+
+      </media>
+      </link></para>
+      
+      
+      
+      
+      
+      
+    </section>
+    <section id="eip-587"><title>Step Three: Creating a different page</title><list id="eip-258" list-type="labeled-item"><item><emphasis>√ Go to Design</emphasis></item>
+        <item>
+          <emphasis effect="bold">√ Go to Options</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ Click on icon with "Different First Page"</emphasis>
+        </item></list><para id="eip-879"><link url="5.13.png/image" window="new">
+      <media id="media13" alt="">
+
+        <image mime-type="image/png" src="../../media/5.13.png" id="figure13"/>
+
+      </media>
+      </link>
+</para><para id="eip-119"><emphasis effect="bold">By following these steps, you have now created a page header that will be at the top of your manuscript for pages 2 through the end of the manuscript. We now have to create the Running head for page one.</emphasis></para><para id="eip-682"><emphasis effect="bold">To do this, move your cursor to page one, to where you have typed the title of your manuscript. You should notice that on page one, you do not have the page header that you typed previously. It is only present for pages 2 through the end of your manuscript.</emphasis>
+      </para><para id="eip-810"><link url="5.14.png/image" window="new">
+      <media id="media14" alt="">
+
+        <image mime-type="image/png" src="../../media/5.14.png" id="figure14"/>
+
+      </media>
+      </link></para></section><section id="id1168234730204">
+      <title>Step Four: Adding a Running Head</title>
+      <list id="id1168193658897" list-type="labeled-item"><item><emphasis>√ Double click Header</emphasis></item>
+        <item>
+          <emphasis effect="bold">√ Go to Insert</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ Click on Quick parts</emphasis>
+        </item></list>
+      <para id="id1168195824018"><link url="5.15.png/image" window="new">
+      <media id="media15" alt="">
+
+        <image mime-type="image/png" src="../../media/5.15.png" id="figure15"/>
+
+      </media>
+      </link></para>
+      
+      <para id="id1168194398061">
+        <emphasis effect="bold">Then the following screen will appear that will allow you to type in the information for your Running head for page one. Below the box where you will type in your Running head is a toolbox, the same one that was present when you typed in your page header information for page two.</emphasis>
+      </para>
+      <para id="id1168195105164"><emphasis>When you click on Quick Parts, go to Document Property, then Title:</emphasis></para>
+      <para id="id1168223505010"><link url="5.16.png/image" window="new">
+      <media id="media16" alt="">
+
+        <image mime-type="image/png" src="../../media/5.16.png" id="figure16"/>
+
+      </media>
+      </link></para>
+      <para id="id5470722"><emphasis>For the first page, we type in Running head: and then the same words we typed as our page header on page two. </emphasis></para>
+      <para id="id1168193973265"><link url="5.17.png/image" window="new">
+      <media id="media17" alt="">
+
+        <image mime-type="image/png" src="../../media/5.17.png" id="figure17"/>
+
+      </media>
+      </link></para>
+      <para id="id5485980"><emphasis>Once your screen looks like the one below, where you have your Running head: followed by the same exact words you typed as your page header.</emphasis></para>
+      <para id="id1168218240286"><link url="5.18.png/image" window="new">
+      <media id="media18" alt="">
+
+        <image mime-type="image/png" src="../../media/5.18.png" id="figure18"/>
+
+      </media>
+      </link>
+      </para>
+      <para id="id1168226454057"><emphasis>Now your first page, your title page looks like:</emphasis></para>
+      <para id="id1168197908750"><link url="5.19.png/image" window="new">
+      <media id="media19" alt="">
+
+        <image mime-type="image/png" src="../../media/5.19.png" id="figure19"/>
+
+      </media>
+      </link></para>
+    </section>
+    <section id="id1168232539723">
+      <title>Step Five: Adding a page number</title>
+      <list id="id1168227516376" list-type="labeled-item"><item><emphasis>√ Go to Design</emphasis></item>
+        <item>
+          <emphasis effect="bold">√ Go to Position</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ Click on Insert Alignment Tab</emphasis>
+        </item></list>
+      <para id="id6041283"><link url="5.20.png/image" window="new">
+      <media id="media20" alt="">
+
+        <image mime-type="image/png" src="../../media/5.20.png" id="figure20"/>
+
+      </media>
+      </link></para>
+      <list id="id1168195016914" list-type="labeled-item"><item><emphasis>√ Click on Right Alignment</emphasis></item>
+        <item>
+          <emphasis effect="bold">√ OK</emphasis>
+        </item>
+</list>
+      <para id="id1168230668993"><link url="5.21.png/image" window="new">
+      <media id="media21" alt="">
+
+        <image mime-type="image/png" src="../../media/5.21.png" id="figure21"/>
+
+      </media>
+      </link></para>
+      <list id="id1168194807634" list-type="labeled-item"><item><emphasis>√ Go to Header &amp; Footer</emphasis></item>
+        <item>
+          <emphasis effect="bold">√ Click on Page Number</emphasis>
+        </item>
+ <item><emphasis effect="bold">√ Current Position</emphasis>
+        </item>
+  <item><emphasis>√ Plain Number</emphasis></item>
+      </list>
+      <para id="id1168219995133"><link url="5.22.png/image" window="new">
+      <media id="media22" alt="">
+
+        <image mime-type="image/png" src="../../media/5.22.png" id="figure22"/>
+
+      </media>
+      </link></para>
+      <para id="id1168226414084"><emphasis>Your first page should resemble the following:</emphasis></para>
+      <para id="id1168211129151"><link url="5.23.png/image" window="new">
+      <media id="media23" alt="">
+
+        <image mime-type="image/png" src="../../media/5.23.png" id="figure23"/>
+
+      </media>
+      </link></para>
+      <para id="id1168188326256"><emphasis>Moving your cursor to the second page shows that it reads as:</emphasis></para>
+      <para id="id1168225918502"><link url="5.12b.png/image" window="new">
+      <media id="media24" alt="">
+
+        <image mime-type="image/png" src="../../media/5.12b.png" id="figure24"/>
+
+      </media>
+      </link></para>
+      <para id="id7371025"><emphasis>You can now create the rest of your manuscript. The page header on page two will reappear on the top of all of your remaining pages in your manuscript.</emphasis></para>
+      
+    </section>
+  </content>
+</document>
