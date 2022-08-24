@@ -1,3 +1,21 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11335</md:content-id>  <md:title>Making Microsoft Word User-Friendly for Dissertations, Theses, and Manuscripts: Part I</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>        <md:uuid>7956012d-8d6d-4f52-8dc4-fbed4b3c7e45</md:uuid>
-<md:slug>using-microsoft-word-part-i</md:slug>
-</metadata>  <col:content>          <col:module document="m38553"/>                            <col:module document="m38570"/>                            <col:module document="m38577"/>                            <col:module document="m38567"/>                            <col:module document="m38568"/>                            <col:module document="m38569"/>                            <col:module document="m38565"/>                            <col:module document="m38566"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook" authors="National Council of Professors  of Educational Administration">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11335</md:content-id>
+    <md:title>Making Microsoft Word User-Friendly for Dissertations, Theses, and Manuscripts: Part I</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>7956012d-8d6d-4f52-8dc4-fbed4b3c7e45</md:uuid>
+    <md:slug>using-microsoft-word-part-i</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m38553"/>
+    <col:module document="m38570"/>
+    <col:module document="m38577"/>
+    <col:module document="m38567"/>
+    <col:module document="m38568"/>
+    <col:module document="m38569"/>
+    <col:module document="m38565"/>
+    <col:module document="m38566"/>
+  </col:content>
+</col:collection>
